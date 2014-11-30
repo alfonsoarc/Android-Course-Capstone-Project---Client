@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- common -->
+    <string name="app_name">Find the intruder</string>
+    <string name="action_settings">Settings</string>
+    <string name="ok">OK</string>
+
+    <!-- login activity -->
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+    <string name="login_unsuccessful_text"> It was not possible to login. Check your username and password.</string>
+
+    <!-- main activity -->
+    <string name="go_new_game">New Game</string>
+    <string name="go_high_scores">High Scores</string>
+
+    <!-- set activity -->
+    <string name="movie_1">Movie 1</string>
+    <string name="movie_2">Movie 2</string>
+    <string name="movie_3">Movie 3</string>
+    <string name="movie_4">Movie 4</string>
+    <string name="submit_set">Submit</string>
+
+    <!-- set info activity -->
+    <string name="correct_answer">Your answer was correct!</string>
+
+    <!-- game over activity -->
+    <string name="game_over_message">Game over. You have made 3 incorrect guesses.</string>
+    <string name="congratulations_message">Congratulations!. You have completed the game.</string>
+
+    <!-- game loader class -->
+    <string name="dialog_title_no_internet"> Internet connection problem</string>
+    <string name="dialog_message_no_internet"> Cannot load a new game without internect connection</string>
+
+</resources>
